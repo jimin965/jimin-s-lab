@@ -1,2 +1,2 @@
-# jimin-s-lab
+# temp-repo
 lab2-1
