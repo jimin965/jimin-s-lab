@@ -1,2 +1,2 @@
 # jimin-s-lab
-lab
+lab2-1
